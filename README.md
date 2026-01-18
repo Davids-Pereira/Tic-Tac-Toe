@@ -51,7 +51,7 @@ Tic-Tac-Toe/
 ## 📥 Installation & Setup
 *Clone the repository:*
  ```bash
- git clone [https://github.com/Davids-Pereira/Tic-Tac-Toe.git](https://github.com/Davids-Pereira/Tic-Tac-Toe.git)
+git clone https://github.com/Davids-Pereira/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 ```
 *Run the application:*
